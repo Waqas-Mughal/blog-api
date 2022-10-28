@@ -11,7 +11,7 @@ var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
 var blogRouter = require("./routes/blogRoutes")
 
-var updateVerion = 0
+var update2=0
 
 var app = express();
 
